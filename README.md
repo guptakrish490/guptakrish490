@@ -22,31 +22,23 @@
 
 ## 🛠 Tech Stack
 
-**Languages**
-```text
-• C++ • JavaScript • HTML • CSS
-```
-
-**Tools & Technologies**
-```text
-• Git • GitHub • VS Code • Node.js • Express • MongoDB
-```
+<img
+src="https://skillicons.dev/icons?i=js,html,css,cpp,c,git,github,nodejs,express,mongodb"/>
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptakrish490&show_icons=true&theme=default)
+![GitHub Stats](https://streak-stats.demolab.com?user=guptakrish490&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptakrish490&layout=compact)
 
 ---
 
 ## 🔗 Connect With Me
 
-- **GitHub:** https://github.com/guptakrish490
-- **LeetCode:** <a href="(https://leetcode.com/u/MjsIZ2lfL7/)">leetcode/krish-gupta <a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/krish-gupta-0a937a386">linkedIn/krish-gupta <a>
+- **GitHub:** <a href="https://github.com/guptakrish490" style=color:gray> github/guptakrish490</a>
+- **LeetCode:** <a href="https://leetcode.com/u/MjsIZ2lfL7/" style=color:orange>leetcode/krish-gupta </a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/krish-gupta-0a937a386" style=color:lightblue>linkedIn/krish-gupta </a>
 
 
 ---
