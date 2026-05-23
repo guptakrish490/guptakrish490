@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi there, I'm Krish!!!👋
 
-<!--
-**guptakrish490/guptakrish490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=Hi%2C+I'm+Krish;Aspiring+Full+Stack+Developer;DSA+%7C+Backend_Development+%7C+Building_Projects)](https://git.io/typing-svg)
+### Aspiring Full Stack Developer | CSE Student @IIITS | Building in Public
 
-Here are some ideas to get you started:
+#### I’m currently focused on improving every day through:
+- Data Structures & Algorithms
+- Backend Development
+- Full Stack Projects
+- Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+#### 📚 StudyShelf
+###### A platform to organize and manage study resources like notes, PDFs, and useful links.
+
+
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+```text
+• C++ • JavaScript • HTML • CSS
+```
+
+**Tools & Technologies**
+```text
+• Git • GitHub • VS Code • Node.js • Express • MongoDB
+```
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptakrish490&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptakrish490&layout=compact)
+
+---
+
+## 🔗 Connect With Me
+
+- **GitHub:** https://github.com/guptakrish490
+- **LeetCode:** <a href="(https://leetcode.com/u/MjsIZ2lfL7/)">leetcode/krish-gupta <a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/krish-gupta-0a937a386">linkedIn/krish-gupta <a>
+
+
+---
+
+### Small progress. Every day.
