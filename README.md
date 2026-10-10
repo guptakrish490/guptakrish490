@@ -170,8 +170,6 @@ A lightweight web application for organizing academic resources, notes, PDFs, an
 </tr>
 </table>
 
-> **Note:** Add your actual repository links to these project cards when ready. Don't describe unfinished functionality as implemented.
-
 ---
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
